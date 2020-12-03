@@ -9,7 +9,7 @@
 title: bbarkji's tech blog
 description: 
 repository: https://github.com/brightjy/brightjy.github.io.git
-baseurl: ''
+baseurl: ""
 url: https://brightjy.github.io
 
 # Build settings

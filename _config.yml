@@ -57,4 +57,7 @@ social:
 
 # Plugins
 gems:
-  - jekyll-seo-tag
+  - gem "jekyll", "~> 3.4.2"
+  - gem "minima", "~> 2.0"
+  -
+  - #gem "github-pages", group: :jekyll_plugins
